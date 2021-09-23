@@ -1,2 +1,4 @@
 # character-count-app
-Character Count App | Vanilla JS Project
+Fun mini HTML, CSS, and JS project to practice basic skills.
+
+**[Live](https://www.google.com/)
