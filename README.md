@@ -1,5 +1,5 @@
 # character-count-app
-Fun mini HTML, CSS, and JS project to practice basic skills (mostly CSS).
+Fun mini HTML, CSS, and JS project to practice basic skills (mostly CSS).\
 My attempt at copying the twitter input character counter.
 
 ## Preview
